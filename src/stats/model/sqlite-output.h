@@ -50,7 +50,7 @@ public:
    * \param name database name
    * \param semName system semaphore name
    */
-  SQLiteOutput (const std::string &name, const std::string &semName);
+  SQLiteOutput (const std::string &name);
   /**
    * Destructor
    */
